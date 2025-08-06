@@ -165,12 +165,6 @@ This application is designed with veterinary data privacy in mind:
 - **Researchers**: Study pharmaceutical effectiveness in veterinary medicine
 - **Practice Managers**: Monitor cost-effectiveness and resource allocation
 
-## 📞 Support
-
-For questions, suggestions, or support:
-- Create an issue on GitHub
-- Contact the development team
-- Check the documentation for common solutions
 
 ## 📄 License
 
